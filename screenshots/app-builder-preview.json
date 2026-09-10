@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "INSTANT",
+      "hasCanvas": false,
+      "bodyTextLen": 1482,
+      "bodyTextHash": "e2099ab5047262f61fe8439f50580c5b4e31d597ce9daa52aa2521f3d3a48d4b",
+      "bodyTextPrefix": "INSTANT Play Giveaways Ranks Store WEEKLY DROP LIVE Play. Climb.",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "INSTANT",
+      "hasCanvas": false,
+      "bodyTextLen": 1569,
+      "bodyTextHash": "311116ebea2d2aed783936f237ea34d78fd74ad8c524052e591911732f0a0c28",
+      "bodyTextPrefix": "INSTANT Sign in WEEKLY DROP LIVE Play. Climb. Win the drop. Six ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
